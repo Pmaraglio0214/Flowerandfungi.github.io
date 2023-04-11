@@ -1,4 +1,4 @@
-<title>Flower and Fungi</title>
+# Flower and Fung
 <p>Welcome to Flowers and Fungi, the <i>hottest</i> spot in good vibing news!
     <ol><li>Marijuana</li><li>Mushrooms</li><li><i>Terpenes</i></li></ol>
 <blockquote>STOP SMOKING START EATING</blockquote>
